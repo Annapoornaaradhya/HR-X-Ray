@@ -45,6 +45,11 @@ Power BI visuals included:
   - Education Demographics by Department
   - Attrition Trends over Years of Service
 
+## ▶️ Dashboard Preview
+
+https://github.com/user-attachments/assets/9efa6954-4ba6-43cc-ab41-5599df67b199
+
+
 ## 🛠️ Tech Stack
 
 - **Power BI** – Data transformation, DAX measures, dashboard creation
