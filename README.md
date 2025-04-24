@@ -1,6 +1,8 @@
 # 💼🔍 HR X-Ray: What the Data Reveals 📊✨  
 *Visualizing Workforce Attrition Insights with Power BI*
 
+[![DOI](https://zenodo.org/badge/970788316.svg)](https://doi.org/10.5281/zenodo.15275426)
+
 ## 📌 Project Overview
 
 **HR X-Ray** is an interactive Power BI dashboard that transforms raw HR data into actionable insights, helping organizations identify patterns in employee attrition. This project visualizes key workforce metrics across departments like R&D, Sales, and Human Resources, providing a clear lens into employee behavior and retention risks.
